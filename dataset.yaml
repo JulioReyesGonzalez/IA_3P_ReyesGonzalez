@@ -1,0 +1,6 @@
+train: C:/Users/imeld/Desktop/Gestos/YOLODataset/train
+val: C:/Users/imeld/Desktop/Gestos/YOLODataset/val
+test:
+
+nc: 5
+names: ['Gesto_I', 'Gesto perfecto', 'Gesto_Pistola', 'Gesto_puno', 'Gesto_Rock']
